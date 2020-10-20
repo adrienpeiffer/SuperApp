@@ -6,7 +6,7 @@ namespace SuperApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Elgon!");
+            Console.WriteLine("Hello Elgon_!");
         }
     }
 }
